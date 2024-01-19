@@ -2,7 +2,7 @@
 
 I'm a 23-year-old developer based in Virginia, and I'm passionate about crafting digital experiences.
 
-- Check out my [website] (https://ryanschork.com/) to learn more about me.
+- Check out my [website](https://ryanschork.com/) to learn more about me.
 - Stay updated with my journey on LinkedIn
 <!--
 **ryanschork/RyanSchork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

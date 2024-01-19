@@ -17,7 +17,7 @@ I'm a 23-year-old developer based in Virginia, and I'm passionate about crafting
 - I was formally a top 0.1% World of Warcraft player.
 
 ## 💬 Ask Me About
-My annual trip to Japan! 🎌
+My annual trip to Japan or literally anything relating to popular manga and anime! 🎌
 
 ## 📫 Contact
 

@@ -3,13 +3,26 @@
 I'm a 23-year-old developer based in Virginia, and I'm passionate about crafting digital experiences.
 
 - Check out my [website](https://ryanschork.com/) to learn more about me.
-- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/ryan-schork-3ab4b41a3/)
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/ryan-schork-3ab4b41a3/).
 
-### Toolbox
-------------------------------------------------------------------------------------------------------------------------------
-Frontend Development: HTML5
+## 📦 Toolbox
 
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `HTML5` `CSS` `JavaScript`
+ 
+**Version Control:** `Git` `GitLab` `Bitbucket`
 
+## ✨ Fun Facts 
+- Chainsawman is my favorite manga/anime.
+- I have dressed up as Spider-man for _every_ Halloween.
+- I was formally a top 0.1% World of Warcraft player.
+
+## 💬 Ask Me About
+My annual trip to Japan! 🎌
+
+## 📫 Contact
+
+ For a quick response, DM me on  [LinkedIn](https://www.linkedin.com/in/ryan-schork-3ab4b41a3/). 
+ 
 
 <!--
 **ryanschork/RyanSchork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

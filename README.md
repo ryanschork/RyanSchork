@@ -1,6 +1,6 @@
 ### Hi there, I'm Ryan 👋
 
-I'm a 23-year-old developer based in Virginia, and I'm passionate about crafting digital experiences.
+I'm a 24-year-old designer / developer based in Virginia, and I'm passionate about crafting digital experiences.
 
 - Check out my [website](https://ryanschork.com/) to learn more about me.
 - Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/ryan-schork-3ab4b41a3/).
